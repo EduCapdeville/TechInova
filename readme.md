@@ -17,5 +17,5 @@
 
 # Criadores do Projeto
 
-| [<img src="https://avatars.githubusercontent.com/u/131886213?s=400&u=b5013d87a011d9c07fc6879c660c06cc86be0e99&v=4" width=115><br><sub>Eduardo Capdeville</sub>](https://github.com/EduCapdeville) |  ![Camilly Rayane](criadora1.png) [<br><sub>Camilly] Rayane</sub>() |
+| [<img src="https://avatars.githubusercontent.com/u/131886213?s=400&u=b5013d87a011d9c07fc6879c660c06cc86be0e99&v=4" width=115><br><sub>Eduardo Capdeville</sub>](https://github.com/EduCapdeville) |  [<img src="" width=115><br><sub>Camilly Rayane</sub>]() |
 | :---: | :---: |
