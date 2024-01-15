@@ -17,11 +17,11 @@ Acreditamos que essa abordagem dinâmica irá não apenas fortalecer os vínculo
 Nossa missão é transformar a interação educacional, promovendo uma troca de conhecimento mais eficiente e inclusiva. Ao mesmo tempo, buscamos ser agentes de mudança, possibilitando o acesso à leitura em comunidades menos favorecidas. Estamos entusiasmados em oferecer uma plataforma que não apenas aprimora a experiência educacional, mas também contribui para a construção de um futuro mais equitativo e educacionalmente enriquecedor para todos.</p>
 
 <h2>Como funciona?</h2>
-<p>Estamos empenhados em simplificar o acesso à leitura para todos, com um foco especial em comunidades carentes. Nosso projeto atua como uma ferramenta de pesquisa inovadora, permitindo que os usuários busquem por um livro específico. Ao inserir o título desejado, nosso site realizará uma busca online pelo correspondente PDF, eliminando a necessidade de extensas buscas na internet.
+<p>A nossa plataforma representa um ambiente inovador dedicado à educação, visando aprimorar a interação entre professores e alunos de maneira eficaz e enriquecedora. Funcionando como uma rede social educacional, oferecemos a professores a oportunidade de criar e compartilhar posts sobre temas específicos de seu interesse. Paralelamente, os alunos podem fazer solicitações diretas de conteúdos, promovendo uma dinâmica mais personalizada no processo educacional.
 
-Essa funcionalidade visa beneficiar aqueles que precisam de um livro, mas podem enfrentar desafios financeiros ou não desejam investir tempo considerável na procura por um arquivo digital. Ao proporcionar um acesso mais facilitado aos livros, nosso projeto pretende ser uma ponte entre o conhecimento e aqueles que buscam recursos educacionais.
+Destacamos também uma ferramenta de pesquisa de livros que simplifica o acesso à leitura. Os usuários podem inserir o nome de um livro desejado, acionando o sistema para buscar online a versão em PDF. Essa funcionalidade visa especialmente beneficiar comunidades carentes, proporcionando uma solução prática para aqueles que enfrentam desafios financeiros ou têm dificuldade em encontrar recursos educacionais na internet.
 
-Acreditamos que esta abordagem não só simplificará a experiência de busca por materiais de leitura, mas também contribuirá para a promoção da educação inclusiva. Estamos entusiasmados em oferecer uma solução que não apenas atende às necessidades práticas dos usuários, mas também promove a igualdade de acesso ao conhecimento, impactando positivamente comunidades que enfrentam desafios específicos.</p>
+Ao comprometer-nos com a democratização do acesso ao conhecimento, reconhecemos a importância de inovação e colaboração na educação. Nossa plataforma oferece um espaço colaborativo onde educadores e alunos podem interagir de forma dinâmica, compartilhando conhecimentos e atendendo às demandas específicas de aprendizado.</p>
 
 ## Tecnologias utilizadas (até o momento.)
 <div>
