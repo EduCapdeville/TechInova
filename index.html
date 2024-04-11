@@ -6,73 +6,111 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projeto TechInova</title>
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
 </head>
 
 <body>
 
-    <header>
-        <h1>Bem-vindo ao Projeto TechInova - Tecnologia na educação</h1>
+    <header class="navbar">
+        <h1>Tech<span>Inova</span></h1>
+        <ul>
+            <li><a class="link-menu" href="#home">Home</a></li>
+            <li><a class="link-menu" href="#ideia">Ideia principal</a></li>
+            <li><a class="link-menu" href="#sobre">Sobre</a></li>
+            <li><a class="link-menu" href="#funciona">Como funciona?</a></li>
+            <li><a class="link-menu" href="#criadores">Criadores</a></li>
+        </ul>
     </header>
 
-    <section>
-        <h2>
-            Ideia principal
-        </h2>
-        <p>
+    <div class="main-box">
+        <section id="home">
+            <h2>Bem-vindo(a) ao projeto<br>
+                Tech<span>Inova</span> - Tecnologia na educação
+            </h2>
+        </section>
 
-            Criar uma plataforma na qual alunos, professores e pais que necessitam de um livro, ou desejam um livro e
-            talvez não tenham condições de adquirir exemplares novos, possam buscar pela versão em PDF.
-        </p>
-    </section>
+        <section id="ideia" class="ideia-principal">
+            <h2>
+                Ideia principal
+            </h2>
+            <p>
 
-    <section id="sobre">
-        <h2>Sobre o Projeto</h2>
-        <p>Uma plataforma comprometida com a educação de excelência, contribuindo para ampliar o acesso à leitura para todos,
-            especialmente para comunidades carentes
-        </p>
-    </section>
+                Criar uma plataforma na qual alunos, professores e pais que necessitam de um livro, ou desejam um livro
+                e
+                talvez<br> não tenham condições de adquirir exemplares novos, possam buscar pela versão em PDF.
+            </p>
+        </section>
 
-    <section>
-        <h2>Como funciona?</h2>
-        <p>
-            Nosso projeto tem como objetivo facilitar o acesso à leitura para todos, especialmente para comunidades
-            carentes. Funcionará como uma ferramenta de pesquisa, onde o usuário poderá buscar por um livro, e nosso
-            site irá procurar online pelo PDF correspondente. Isso ajudará aqueles que necessitam de um livro, mas não
-            têm condições ou não desejam perder muito tempo procurando por um PDF na internet, proporcionando-lhes um
-            acesso mais facilitado aos livros.</p>
-    </section>
+        <section id="sobre">
+            <h2>Sobre o projeto </h2>
+            <p>Uma plataforma comprometida com a educação de excelência, contribuindo para ampliar o acesso à leitura
+                para todos,
+                especialmente para comunidades carentes
+            </p>
+        </section>
 
-    <section>
+        <section id="funciona">
+            <h2>Como funciona?</h2>
+            <p>
+                Nosso projeto tem como objetivo facilitar o acesso à leitura para todos, especialmente para comunidades
+                carentes. Funcionará como uma ferramenta de pesquisa, onde o usuário poderá buscar por um livro, e
+                nosso
+                site irá procurar online pelo PDF correspondente. Isso ajudará aqueles que necessitam de um livro, mas
+                não
+                têm condições ou não desejam perder muito tempo procurando por um PDF na internet,
+                proporcionando-lhes um
+                acesso mais facilitado aos livros.</p>
+        </section>
 
-        <h2>Criadores do Projeto</h2>
-        <img src="imagens/criador1.jpg" id="criador1">
-        <h3>Eduardo Capdeville - RU: 4506405</h3>
-        <p1>Sobre</p1>
-        <p>Eduardo Capdeville é estudante de Engenharia de Software na UNINTER, Gamer desde sua infância, tem diversos
-            certificados do curso ALURA e ama tecnologia. </p>
+        <div id="criadores">
+            <section>
+                <h2>Criadores do Projeto</h2>
+                <h3>Eduardo Capdeville - RU: 4506405</h3>
+                <img src="./img/criador1.jpg" id="criador1"><br><br>
+                <p1>Sobre mim</p1>
+                <p>Eduardo Capdeville é estudante de Engenharia de Software na UNINTER, Gamer desde sua infância, tem
+                    diversos
+                    certificados do curso ALURA e ama tecnologia. </p>
+                <div class="social">
+                    <a href="https://www.linkedin.com/in/eduardo-capdeville-de-s%C3%A3o-thiago-sardenberg-da-rocha-303ab4273/"
+                        id="link_linkedin">
+                        <img src="./img/linkedin.jpg" id="linkedin">
+                    </a>
 
-        <img src="imagens/linkedin.jpg" id="linkedin">
-        <a href="https://www.linkedin.com/in/eduardo-capdeville-de-s%C3%A3o-thiago-sardenberg-da-rocha-303ab4273/"
-            id="link_linkedin">CLIQUE AQUI</a>
-        <img src="imagens/github.jpg" id="github">
-        <a href="https://github.com/EduCapdeville" id="link_github">CLIQUE AQUI</a>
-    </section>
+                    <a href="https://github.com/EduCapdeville" id="link_github">
+                        <img src="./img/github.jpg" id="github">
+                    </a>
+                </div>
 
-    <section>
+            </section>
 
-        <img src="imagens/criadora1.jpg" id="criadora1">
-        <h3>Camilly Rayane - RU: 4411093</h3>
-        <p2>Sobre</p2>
-        <p>N/A</p>
-        <img src="imagens/linkedin.jpg" id="linkedin2">
-        <a href="https://www.linkedin.com/in/camillyrayane/" id="link_linkedin2">CLIQUE AQUI</a>
-        <img src="imagens/github.jpg" id="github2">
-        <a href="https://github.com/caahrayane" id="link_github2">CLIQUE AQUI</a>
+            <section>
 
-    </section>
+                <h3>Camilly Rayane - RU: 4411093</h3>
+                <img src="./img/criadora1.jpg" id="criadora1"><br><br>
+                <p2>Sobre mim</p2>
+                <p>N/A</p>
+                <div class="social2">
+                    <a href="https://www.linkedin.com/in/camillyrayane/" id="link_linkedin2">
+                        <img src="./img/linkedin.jpg" id="linkedin2">
+                    </a>
+
+                    <a href="https://github.com/caahrayane" id="link_github2">
+                        <img src="./img/github.jpg" id="github2">
+                    </a>
+                </div>
+
+            </section>
+        </div>
+
+    </div>
 
     <script src="script.js"></script>
 </body>
-    <!-- <section></section> -->
+<!-- <section></section> -->
 
 </html>

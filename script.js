@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     // Adiciona um evento de clique a todos os links de navegação
-    document.querySelectorAll('nav a').forEach(anchor => {
+    document.querySelectorAll('.navbar a').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
             e.preventDefault();
 
