@@ -184,7 +184,7 @@ h1 {
     transition: 0.3s ease-in;
 }
 
-.social2 a:hover {
+.social a:hover {
     transform: scale(1.3);
     transition: 0.3s ease-out;
     cursor: pointer;
